@@ -10,7 +10,7 @@
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json"
   },
   "dependencies": {
-    "@atlasauth/svelte": "^0.1.4"
+    "@atlasauth/svelte": "^0.12.0"
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.3.1",
