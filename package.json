@@ -13,7 +13,7 @@
     "@atlasauth/svelte": "^0.12.0"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "^3.3.1",
+    "@sveltejs/adapter-auto": "^8.0.0",
     "@sveltejs/kit": "^2.8.0",
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
     "svelte": "^5.1.0",
